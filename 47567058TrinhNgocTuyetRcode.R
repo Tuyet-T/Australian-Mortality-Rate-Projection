@@ -2,7 +2,7 @@
 library("StMoMo")
 library(demography)
 require(StMoMo)
-Mort <- hmd.mx(country = "AUS", username = "ngoctuyet.trinh@students.mq.edu.au",password = "@@461TnT")
+Mort <- hmd.mx(country = "AUS", username = "",password = "")
 #View(Mort)
 Mort$age <- as.numeric(gsub("\\+","",Mort$age))
 #Part a
