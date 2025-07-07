@@ -16,11 +16,11 @@ Fitting natural cubic splines and smoothing splines to model the mortality rates
 
 Comparison of models based on mean squared error (MSE) for calibration and validation years.
 
-Statistical Testing:
+Statistical Tests (Graduation tests for smooth spline):
 
-Applying Chi-squared and standardized deviations tests to validate the model predictions.
+Applying 6 tests ( (chi-square, standardised deviation, sign, cumulative deviation, grouping of sign, serial correlations) to examine the fit)
 
-The analysis includes a series of hypothesis tests to determine if the fitted models are statistically significant.
+The analysis includes a series of hypothesis tests to determine if the smooth spline is well-described the mortality trend in year 2019 dataset.
 
 Mortality Projection:
 
