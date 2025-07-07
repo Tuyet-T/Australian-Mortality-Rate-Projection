@@ -1,5 +1,3 @@
-This repository contains a comprehensive analysis of mortality rates using Australian mortality data. The analysis includes various statistical methods, such as natural cubic splines, smoothing splines, and statistical tests to validate the models. Additionally, it explores forecasting methods using the Lee-Carter (LC) and Age-Period-Cohort (APC) models.
-
 Overview
 
 The goal of this analysis is to model mortality rates in Australia and assess the performance of different methods to fit and predict mortality data over the years. Key steps include:
